@@ -18,8 +18,8 @@ class Area
 };
 int main()
 {
-	Area a1;
-	cout<<"area of circle is : "<<a1.area(2);
-	cout<<"\n area of rectangle : "<<a1.area(4,5);
-	cout<<"\n area of triangle : "<<a1.area(3,4,5);
+	Area a2;
+	cout<<"area of circle is : "<<a2.area(2);
+	cout<<"\n area of rectangle : "<<a2.area(4,5);
+	cout<<"\n area of triangle : "<<a2.area(3,4,5);
 }
