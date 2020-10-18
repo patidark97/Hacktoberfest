@@ -6,7 +6,7 @@ class Area
 	public:
 		float area(float r)
 		{
-			return (3.14*r*r);
+			return ( M_PI*r*r);
 		} 
 		float area(float l, float b){return(l*b);}
 		float area(float a, float b, float c)
